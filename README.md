@@ -1,4 +1,5 @@
-# ITE306-Module18-Velasquez_Jewel
+# Accessing_Data_Using_Add-URL-Rule
+ITE306-Module18-Velasquez_Jewel
 
 1. First, run hello.py, then go to http://127.0.0.1:5000
 2. Second, http://127.0.0.1:5000/empdb/employee/
